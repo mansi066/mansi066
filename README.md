@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-   Email Id:mansisinghal623@gmail.com
+ - Email Id:mansisinghal623@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
