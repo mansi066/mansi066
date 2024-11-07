@@ -45,6 +45,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <details>
+[![An image of @mansi066 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)]((https://www.holopin.io/@mansi066#badges))
   
      
 - ⚡ Fun fact: ...
@@ -69,4 +70,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+
+</br>
+[![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
+</br>
