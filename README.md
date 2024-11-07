@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mansi
 - 👀 I’m interested in Web development and AIML
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently comtributing in Open Sorce GSSOC-Ext
 - 📫 How to reach me
  - Email Id:mansisinghal623@gmail.com
 - 😄 Pronouns: She/her
