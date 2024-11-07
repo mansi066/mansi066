@@ -84,8 +84,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shivanshplays&color=red" alt="Total Github views" />
 
 
 
