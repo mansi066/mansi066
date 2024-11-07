@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Mansi
+<h1 align="center"> Hi there, I'm <a href= https://www.linkedin.com/in/mansi-singhal-0a5580296/>Mansi</a> </h1>
+
 - 👀 I’m interested in Web development and AIML
 - 🌱 I’m currently comtributing in Open Sorce GSSOC-Ext
 - 📫 How to reach me
  - Email Id : mansisinghal623@gmail.com
  - Linkedin Profile : https://www.linkedin.com/in/mansi-singhal-0a5580296/
 - 😄 Pronouns: She/her
+
+    <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/mansi066">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<br>
+     
 - ⚡ Fun fact: ...
 
 <!---
