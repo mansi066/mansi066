@@ -2,15 +2,14 @@
 
 - 👀 I’m interested in Web development and AIML
 - 🌱 I’m currently comtributing in Open Sorce GSSOC-Ext
-- 📫 How to reach m
+- 📫 How to reach me "mansisinghal623@gmail.com"
   <h3 align="left">Let's connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mansi-singhal-0a5580296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mansi" height="30" width="40" /></a>
-
 <a href="https://leetcode.com/u/mansi233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mansi" height="30" width="40" /></a>
 </p>
- - Email Id : mansisinghal623@gmail.com
- - Linkedin Profile : https://www.linkedin.com/in/mansi-singhal-0a5580296/
+
+
 - 😄 Pronouns: She/her
 ### ⚡️ Tech Stack That Powers My Creations:
 
