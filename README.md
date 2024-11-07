@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web development and AIML
 - 🌱 I’m currently comtributing in Open Sorce GSSOC-Ext
 - 📫 How to reach me
- - Email Id:mansisinghal623@gmail.com
+ - Email Id : mansisinghal623@gmail.com
+ - Linkedin Profile : https://www.linkedin.com/in/mansi-singhal-0a5580296/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
