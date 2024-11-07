@@ -7,11 +7,7 @@
  - Linkedin Profile : https://www.linkedin.com/in/mansi-singhal-0a5580296/
 - 😄 Pronouns: She/her
 
-    <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/mansi066">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
-<br>
+  
      
 - ⚡ Fun fact: ...
 
