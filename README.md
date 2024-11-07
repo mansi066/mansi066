@@ -76,8 +76,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+ <summary><b>Hacktoberfest Badges 🪶</b></summary><br>
 
- <summary><b>Hactoberfest Badges 🪶</b></summary><br>
 [![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
