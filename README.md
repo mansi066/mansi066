@@ -1,7 +1,9 @@
+# 💫 About Me:
 <h1 align="center"> Hi there, I'm <a href= https://www.linkedin.com/in/mansi-singhal-0a5580296/>Mansi</a> </h1>
 
-- 👀 I’m interested in Web development and AIML
-- 🌱 I’m currently comtributing in Open Source GSSOC-Ext
+I am currently Learning Web development and DSA.<br>I am enthusiastic in Artificial Intelligence and Machine learning<br>I worked as an Open-Source contributor in GSSOC-Ext
+
+
 - 📫 How to reach me "mansisinghal623@gmail.com"
   <h3 align="left">Let's connect with me :</h3>
 <p align="left">
@@ -80,16 +82,32 @@ You can click the Preview link to take a look at your changes.
  <summary><b>Hacktoberfest Badges 🪶</b></summary><br>
 
 [![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
+# 💫 About Me:
+Hey , I am Mansi <br>I am currently Learning Web development and DSA.<br>I am enthusiastic in Artificial Intelligence and Machine learning<br>I worked as an Open-Source contributor in GSSOC-Ext
 
-<p align="center">
-  <a href="https://buymeacoffee.com/mansi066" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mansi066&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mansi066&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi066&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mansi066&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mansi066&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mansi066&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mansi066) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
