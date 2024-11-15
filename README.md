@@ -11,7 +11,7 @@
 
 
 - 😄 Pronouns: She/her
-### ⚡️ Tech Stack That Powers My Creations:
+### ⚡️ Tech Stack:
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
