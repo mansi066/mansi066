@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
+  <a href="https://buymeacoffee.com/mansi066" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
