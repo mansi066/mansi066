@@ -82,9 +82,6 @@ You can click the Preview link to take a look at your changes.
  <summary><b>Hacktoberfest Badges 🪶</b></summary><br>
 
 [![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
-# 💫 About Me:
-Hey , I am Mansi <br>I am currently Learning Web development and DSA.<br>I am enthusiastic in Artificial Intelligence and Machine learning<br>I worked as an Open-Source contributor in GSSOC-Ext
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mansi066&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
