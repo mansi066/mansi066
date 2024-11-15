@@ -84,7 +84,6 @@ You can click the Preview link to take a look at your changes.
 [![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mansi066&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mansi066&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi066&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
