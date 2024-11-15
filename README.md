@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href= https://www.linkedin.com/in/mansi-singhal-0a5580296/>Mansi</a> </h1>
 
 - 👀 I’m interested in Web development and AIML
-- 🌱 I’m currently comtributing in Open Sorce GSSOC-Ext
+- 🌱 I’m currently comtributing in Open Source GSSOC-Ext
 - 📫 How to reach me "mansisinghal623@gmail.com"
   <h3 align="left">Let's connect with me :</h3>
 <p align="left">
