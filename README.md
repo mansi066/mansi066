@@ -5,7 +5,7 @@
 <span style="color:#0000FF;"><b>😄 Pronouns: She/Her.</b></span><br>
 <span style="color:#228B22;"><b>💻 Full-Stack Python Developer skilled in Django, React, Next.js, REST APIs, and modern web technologies.</b></span><br>
 <span style="color:#FF69B4;"><b>🤖 Passionate about Artificial Intelligence, Machine Learning, and building AI-powered applications.</b></span><br>
-<span style="color:#FFD700;"><b>📫 How to reach me: <a href="mailto:mansisinghal323@gmail.com">mansisinghal623@gmail.com</a></b></span><br><br> <!-- Extra line break for spacing -->
+<span style="color:#FFD700;"><b>📫 How to reach me: <a href="mailto:mansisinghal323@gmail.com">mansisinghal323@gmail.com</a></b></span><br><br> <!-- Extra line break for spacing -->
 
 <!-- Connect with Me Section -->
 <h1 align="Center">Connect with me :</h1>
@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
 
 <h2 align="center"> Featured Projects</h2>
 
@@ -68,7 +69,7 @@
 <td><b>Stay Smart Trip</b></td>
 <td>Smart travel planning platform for trip management and destination discovery.</td>
 <td>Next.js, TypeScript, Django REST Framework, Docker</td>
-<td><a href="https://github.com/mansi066/Stay-Smart-Trip">View Repo</a></td>
+<td><a href="https://github.com/mansi066/Stay-Smart-Trip/tree/master">View Repo</a></td>
 </tr>
 
 <tr>
