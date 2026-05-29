@@ -3,34 +3,9 @@
 <!-- About Me Section -->
 <h1 align="center"> About Me: </h1>
 <span style="color:#0000FF;"><b>😄 Pronouns: She/Her.</b></span><br>
-<span style="color:#228B22;"><b>🌱 I’m currently learning Web Development and DSA.</b></span><br>
-<span style="color:#FF69B4;"><b>👯 I am enthusiastic about Artificial Intelligence and Machine Learning.</b></span><br>
-<span style="color:#8B008B;"><b>💬 I worked as an Open-Source contributor in GSSOC-Ext.</b></span><br>
-<span style="color:#FFD700;"><b>📫 How to reach me: <a href="mailto:mansisinghal623@gmail.com">mansisinghal623@gmail.com</a></b></span><br><br> <!-- Extra line break for spacing -->
-
-<!-- GSSoC Section -->
-<h1 align="center"> GSSoC: </h1>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=mansi066">
-        <!-- Badge images for GSSoC -->
-        <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-    </a>
-</div>
-<br><br> <!-- Extra line breaks for spacing -->
-
-<!-- Hacktober Fest Section -->
-<h1 align="center"> Hacktober Fest: </h1>
-
-[![An image of @mansi066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansi066)](https://holopin.io/@mansi066)
-<br><br> <!-- Extra line breaks for spacing -->
+<span style="color:#228B22;"><b>💻 Full-Stack Python Developer skilled in Django, React, Next.js, REST APIs, and modern web technologies.</b></span><br>
+<span style="color:#FF69B4;"><b>🤖 Passionate about Artificial Intelligence, Machine Learning, and building AI-powered applications.</b></span><br>
+<span style="color:#FFD700;"><b>📫 How to reach me: <a href="mailto:mansisinghal323@gmail.com">mansisinghal623@gmail.com</a></b></span><br><br> <!-- Extra line break for spacing -->
 
 <!-- Connect with Me Section -->
 <h1 align="Center">Connect with me :</h1>
@@ -45,34 +20,38 @@
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
 
 <!-- Tech Stack Section -->
-<h1 align="center"> Tech Stack: </h1>
+<h1 align="center">⚡ Tech Stack</h1>
+
 <p align="center">
-    <td><img height="50" src="https://skillicons.dev/icons?i=cpp&theme=dark"></td>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+<h3 align="center">🤖 AI / ML</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 <!-- GitHub Stats Section -->
 <h1 align="center"> 📊 GitHub Stats: </h1>
 <div align="center">
