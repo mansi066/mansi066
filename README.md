@@ -68,35 +68,35 @@
 <td><b>Stay Smart Trip</b></td>
 <td>Smart travel planning platform for trip management and destination discovery.</td>
 <td>Next.js, TypeScript, Django REST Framework, Docker</td>
-<td><a href="https://github.com/mansi066/Stay-Smart-Trip">🔗 View Repo</a></td>
+<td><a href="https://github.com/mansi066/Stay-Smart-Trip">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>Cognix</b></td>
 <td>AI-powered assistant integrated with Google Gemini API.</td>
 <td>React.js, TypeScript, Google Gemini API, Tailwind CSS, REST APIs</td>
-<td><a href="https://github.com/mansi066/Cognix-">🔗 View Repo</a></td>
+<td><a href="https://github.com/mansi066/Cognix-"> View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>GreenGuard</b></td>
 <td>Environmental monitoring and prediction system using AI.</td>
 <td>Streamlit, Python, TensorFlow, Keras, Anaconda</td>
-<td><a href="https://github.com/mansi066/GreenGuard">🔗 View Repo</a></td>
+<td><a href="https://github.com/mansi066/GreenGuard">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b> Property Price Prediction System</b></td>
 <td>Machine learning application for property price prediction and recommendations.</td>
 <td>Next.js 14, TypeScript, Tailwind CSS, FastAPI, Python, Pandas, NumPy, ML</td>
-<td><a href="https://github.com/mansi066/Price-Prediction-and-Recommendation-System">🔗 View Repo</a></td>
+<td><a href="https://github.com/mansi066/Price-Prediction-and-Recommendation-System"> View Repo</a></td>
 </tr>
 
 <tr>
 <td><b> ShopX</b></td>
 <td>Full-stack e-commerce platform with authentication and order management.</td>
 <td>Django, Python, HTML, CSS, JavaScript, Bootstrap</td>
-<td><a href="https://github.com/mansi066/ShopX">🔗 View Repo</a></td>
+<td><a href="https://github.com/mansi066/ShopX">View Repo</a></td>
 </tr>
 
 </table>
